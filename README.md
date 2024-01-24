@@ -13,3 +13,21 @@ Hi, I am Shibu Meher. I am a computational material scientist. I love learning n
 
 - Electronic Structure Calculations:
  1. codingDFT(https://github.com/Shibu778/codingDFT)
+
+
+ #### Find me
+
+<p>
+  <a href="mailto:shibumeher@iisc.ac.in">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Shibu778">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/SHIBUMEHER2">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=tcUtaRsAAAAJ">
+    <img alt="Google Scholar" src="https://icons8.com/icon/drPiDBy9kkJ3/google-scholar--v3" />
+  </a>
+</p>
