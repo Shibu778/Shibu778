@@ -11,8 +11,8 @@ Hi, I am Shibu Meher. I am a computational material scientist. I love learning n
 
 ### Projects
 
-- Electronic Structure Calculations:
-    codingDFT(https://github.com/Shibu778/codingDFT)
+<!-- - Electronic Structure Calculations:
+    codingDFT(https://github.com/Shibu778/codingDFT) -->
 
 
  #### Find me
