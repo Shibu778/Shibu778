@@ -27,7 +27,5 @@ Hi, I am Shibu Meher. I am a computational material scientist. I love learning n
   <a href="https://twitter.com/SHIBUMEHER2">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://scholar.google.com/citations?hl=en&user=tcUtaRsAAAAJ">
-    <img alt="Google Scholar" src="https://icons8.com/icon/drPiDBy9kkJ3/google-scholar--v3" />
   </a>
 </p>
