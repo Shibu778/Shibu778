@@ -1,4 +1,4 @@
-Hi, I am Shibu Meher. I am a computational material scientist. I love learning new thing and solving problems.
+Hi, I am Shibu Meher. I am a computational material scientist. I love learning new thing, teaching and solving problems.
 
 ### Languages
 
