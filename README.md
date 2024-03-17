@@ -1,5 +1,7 @@
 Hi, I am Shibu Meher. I am a computational material scientist. I love learning new thing, teaching and solving problems.
 
+Currently, I am working on modeling of point defects in solids for quantum technology application. I use first princples high-throughput calculations along with machine learning to understand point defect better. I am open to collaborations.
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
