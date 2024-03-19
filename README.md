@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with **density functional theory and quantum chemistry based code development.**
 
-- 👨‍💻 All of my projects are available at [https://shibumeher.netlify.app/](https://shibumeher.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://shibumeher.netlify.app/](https://shibumeher.netlify.app/)
 
 - 📝 I regularly write articles on [https://shibumeher.netlify.app/post/](https://shibumeher.netlify.app/post/)
 
-- 📄 Know about my experiences [https://shibumeher.netlify.app/uploads/resume.pdf](https://shibumeher.netlify.app/uploads/resume.pdf)
+- 📄 Know about my experiences [https://shibumeher.netlify.app/uploads/resume.pdf](https://shibumeher.netlify.app/uploads/resume.pdf) -->
 
 - ⚡ Fun fact **Most of our problem never occurs outside our mind &#128518;.**
 
