@@ -67,7 +67,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibu778&show_icons=true&locale=en&theme=dark" alt="shibu778" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shibu778&" alt="shibu778" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shibu778&theme=dark" alt="shibu778" /></p>
 
 
 <!-- README.md generated with https://rahuldkjain.github.io/gh-profile-readme-generator/-->
