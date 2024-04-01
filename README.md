@@ -66,13 +66,14 @@
 ### My Repositories
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=structure2symmetry\&show_owner=True\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/shibu778/structure2symmetry)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=passivate_nanostructure\&show_owner=True\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/shibu778/passivate_nanostructure)
+
 ### Github Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shibu778&show_icons=true&locale=en&layout=compact&theme=gotham" alt="shibu778" /></p>
+<p align="center"><img width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=shibu778&show_icons=true&locale=en&layout=compact&theme=gotham" alt="shibu778" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shibu778&show_icons=true&theme=gotham" alt="shibu778" />
+<p align="center"> <img width=500 src="https://github-readme-stats.vercel.app/api?username=shibu778&show_icons=true&theme=gotham" alt="shibu778" />
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shibu778&theme=gotham" alt="shibu778" /></p>
+<p align="center"><img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=shibu778&theme=gotham" alt="shibu778" /></p>
 
 
 <!-- README.md generated with https://rahuldkjain.github.io/gh-profile-readme-generator/-->
