@@ -69,11 +69,10 @@
 
 ### Github Stats
 
-<p align="center"><img width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=shibu778&show_icons=true&locale=en&layout=compact&theme=gotham" alt="shibu778" /></p>
-
 <p align="center"> <img width=500 src="https://github-readme-stats.vercel.app/api?username=shibu778&show_icons=true&theme=gotham" alt="shibu778" />
 
 <p align="center"><img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=shibu778&theme=gotham" alt="shibu778" /></p>
 
+<p align="center"><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=shibu778&show_icons=true&locale=en&layout=compact&theme=gotham" alt="shibu778" /></p>
 
 <!-- README.md generated with https://rahuldkjain.github.io/gh-profile-readme-generator/-->
