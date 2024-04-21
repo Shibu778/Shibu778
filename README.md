@@ -90,9 +90,10 @@
 
 ## Github Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=shibu778&show_icons=true&theme=gotham" alt="shibu778" width="35%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibu778&theme=gotham" alt="shibu778" width="37%"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shibu778&show_icons=true&locale=en&layout=compact&theme=gotham" alt="shibu778" width="26.5%" />
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibu778&theme=onedark&row=1&column=9" alt="shibu778" width="100% /></a> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shibu778&show_icons=true&theme=gotham" alt="shibu778" width="35%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibu778&theme=gotham" alt="shibu778" width="37%"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shibu778&show_icons=true&locale=en&layout=compact&theme=gotham" alt="shibu778" width="26.5%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shibu778&theme=minimal&bg_color=00000000&line=00CCFF&color=838383&hide_border=true&hide_title=true&area=true&custom_title=Contributions" width="100%"/>
 
