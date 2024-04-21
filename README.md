@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shibu Meher</h1>
+<!-- <h1 align="center">Hi 👋, I'm Shibu Meher</h1> -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=63F73E&center=true&vCenter=true&multiline=true&random=false&width=435&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Shibu+Meher)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate computational material scientist. I love learning new thing, teaching and solving problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibu778&label=Profile%20views&color=0e75b6&style=flat" alt="shibu778" /> </p>
@@ -22,7 +25,7 @@
 
 - ⚡ Fun fact **Most of our problem never occurs outside our mind &#128518;.**
 
-### Blogs posts
+## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -63,11 +66,11 @@
 <a href="https://www.vasp.at/" target="_blank" rel="noreferrer"> <img src="https://cmp.univie.ac.at/fileadmin/_processed_/csm_vasp_logo_3956c6ee63.png" alt="VASP" width="80" height="40"/> </a>
 <!-- <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>  <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a>      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> -->
 
-### My Repositories
+## My Repositories
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=structure2symmetry\&show_owner=True\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/shibu778/structure2symmetry)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=passivate_nanostructure\&show_owner=True\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/shibu778/passivate_nanostructure)
 
-### Github Stats
+## Github Stats
 
 <p align="center"> <img width=500 src="https://github-readme-stats.vercel.app/api?username=shibu778&show_icons=true&theme=gotham" alt="shibu778" />
 
@@ -76,3 +79,10 @@
 <p align="center"><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=shibu778&show_icons=true&locale=en&layout=compact&theme=gotham" alt="shibu778" /></p>
 
 <!-- README.md generated with https://rahuldkjain.github.io/gh-profile-readme-generator/-->
+
+## Stats Generated from Quine
+[![Shibu778's GitHub | Stats](https://stats.quine.sh/Shibu778/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shibu778) [![Shibu778's GitHub | Topics Over Time](https://stats.quine.sh/Shibu778/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shibu778)
+
+[![Shibu778's GitHub | Languages Over Time](https://stats.quine.sh/Shibu778/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shibu778)
+
+[![Shibu778's Stack Overflow | Stats](https://stats.quine.sh/Shibu778/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shibu778)
