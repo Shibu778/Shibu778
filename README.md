@@ -1,8 +1,11 @@
 <!-- <h1 align="center">Hi 👋, I'm Shibu Meher</h1> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=63F73E&center=true&vCenter=true&multiline=true&random=false&width=435&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Shibu+Meher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=63F73E&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shibu+Meher)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate computational material scientist. I love learning new thing, teaching and solving problems.</h3>
+<h3>A passionate computational material scientist. I love learning new thing, teaching and solving problems.</h3>
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32F7DD&multiline=true&random=false&width=435&lines=A+passionate+computational+material+scientist.+I+love+learning+new+thing%2C+teaching+and+solving+problems.)](https://git.io/typing-svg) -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibu778&label=Profile%20views&color=0e75b6&style=flat" alt="shibu778" /> </p>
 
