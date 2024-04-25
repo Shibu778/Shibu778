@@ -99,7 +99,7 @@
 
 <!-- README.md generated with https://rahuldkjain.github.io/gh-profile-readme-generator/-->
 
-## Stats Generated from Quine
+<!-- ## Stats Generated from Quine -->
 <!-- [![Shibu778's GitHub | Stats](https://stats.quine.sh/Shibu778/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shibu778) [![Shibu778's GitHub | Topics Over Time](https://stats.quine.sh/Shibu778/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shibu778)
 
 [![Shibu778's GitHub | Languages Over Time](https://stats.quine.sh/Shibu778/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shibu778)
@@ -108,6 +108,6 @@
 
 <!-- <img src="https://stats.quine.sh/Shibu778/dependencies?theme=dark" width="40%" />  -->
 
-<img src="https://stats.quine.sh/Shibu778/languages-over-time?theme=dark" width=40% />  <img src="https://stats.quine.sh/Shibu778/topics-over-time?theme=dark" width=43% /> 
+<!-- <img src="https://stats.quine.sh/Shibu778/languages-over-time?theme=dark" width=40% />  <img src="https://stats.quine.sh/Shibu778/topics-over-time?theme=dark" width=43% /> 
 
-<img src="https://stats.quine.sh/Shibu778/github?theme=dark" width=40% /> <img src="https://stats.quine.sh/Shibu778/stack-overflow?theme=dark" width=40% />
+<img src="https://stats.quine.sh/Shibu778/github?theme=dark" width=40% /> <img src="https://stats.quine.sh/Shibu778/stack-overflow?theme=dark" width=40% /> -->
