@@ -1,4 +1,5 @@
 <!-- <h1 align="center">Hi 👋, I'm Shibu Meher</h1> -->
+<!-- ![Banner](./files/github_banner1.png) -->
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shibu778&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shibu778" /> </p>
 
@@ -96,6 +97,12 @@
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shibu778&theme=minimal&bg_color=00000000&line=00CCFF&color=838383&hide_border=true&hide_title=true&area=true&custom_title=Contributions" width="100%"/>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/Shibu778/Shibu778/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 <!-- README.md generated with https://rahuldkjain.github.io/gh-profile-readme-generator/-->
 
