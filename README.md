@@ -88,7 +88,7 @@
 ## My Repositories
 <!-- [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=structure2symmetry\&show_owner=True\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/shibu778/structure2symmetry)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=passivate_nanostructure\&show_owner=True\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/shibu778/passivate_nanostructure) -->
-
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=defectpl\&show_owner=True\&theme=dracula)](https://github.com/shibu778/defectpl)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=structure2symmetry\&show_owner=True\&theme=dracula)](https://github.com/shibu778/structure2symmetry)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=passivate_nanostructure\&show_owner=True\&theme=dracula)](https://github.com/shibu778/passivate_nanostructure)
 
