@@ -91,6 +91,7 @@
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=defectpl\&show_owner=True\&theme=dracula)](https://github.com/shibu778/defectpl)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=structure2symmetry\&show_owner=True\&theme=dracula)](https://github.com/shibu778/structure2symmetry)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=passivate_nanostructure\&show_owner=True\&theme=dracula)](https://github.com/shibu778/passivate_nanostructure)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=quantum_coin_game\&show_owner=True\&theme=dracula)](https://github.com/Shibu778/quantum_coin_game)
 
 
 
