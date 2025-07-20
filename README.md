@@ -7,42 +7,23 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=63F73E&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shibu+Meher)](https://git.io/typing-svg)
 
-<h3>A passionate computational material scientist. I love learning new thing, teaching and solving problems.</h3>
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32F7DD&multiline=true&random=false&width=435&lines=A+passionate+computational+material+scientist.+I+love+learning+new+thing%2C+teaching+and+solving+problems.)](https://git.io/typing-svg) -->
+<h3>👋 Hi there! I'm Shibu Meher, a passionate computational materials scientist who loves learning, teaching, and solving problems.</h3>
 
+🔬 Currently diving deep into the **first-principles study of point defects** in solids, with a focus on quantum technologies and defect engineering.
 
+💡 Exploring the frontiers of **computational sciences**, **quantum computing** and **machine learning**, blending physics with code.
 
-
-<!-- [![](https://github-readme-stats.vercel.app/api?username=Shibu778&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=false&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shibu778&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF)](https://github.com/Shibu778/github-readme-stats)
-[![](https://spotify-github-profile.vercel.app/api/view?uid=Shibu778&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=Shibu778&redirect=true)
-
-![Shibu778's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shibu778&theme=transparent&hide_border=true)  
-![](https://api.githubtrends.io/user/svg/Shibu778/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
-![](https://api.githubtrends.io/user/svg/Shibu778/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark) -->
+🤝 Open to collaborations on:
+- Quantum defect modeling and simulation
+- Computational Materials Science
+- Scientific software development
+- AI/ML applications in materials science
 
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=Shibu778&theme=transparent&column=-1&no-bg=true&no-frame=true" width="80%" /> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/@shibumeher2" target="blank"><img src="https://img.shields.io/twitter/follow/@shibumeher2?logo=twitter&style=for-the-badge" alt="@shibumeher2" /></a> </p> -->
+🔬 "In the lattice of knowledge, every defect is a doorway to discovery."
 
 
-- 🔭 I’m currently working on **first principles study of point defects**
-
-- 🌱 I’m currently learning **web development and scientific computing.**
-
-- 👯 I’m looking to collaborate on **first principle study of point defects in solids.**
-
-- 🤝 I’m looking for help with **scientific software development**
-
-<!-- - 👨‍💻 All of my projects are available at [https://shibumeher.netlify.app/](https://shibumeher.netlify.app/)
-
-- 📝 I regularly write articles on [https://shibumeher.netlify.app/post/](https://shibumeher.netlify.app/post/)
-
-- 📄 Know about my experiences [https://shibumeher.netlify.app/uploads/resume.pdf](https://shibumeher.netlify.app/uploads/resume.pdf) -->
-
-- ⚡ Fun fact **Most of our problem never occurs outside our mind &#128518;.**
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -92,6 +73,7 @@
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=structure2symmetry\&show_owner=True\&theme=dracula)](https://github.com/shibu778/structure2symmetry)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=passivate_nanostructure\&show_owner=True\&theme=dracula)](https://github.com/shibu778/passivate_nanostructure)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=fe2o3-pva\&show_owner=True\&theme=dracula)](https://github.com/shibu778/fe2o3-pva)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=COMSOL_thermoelectrics\&show_owner=True\&theme=dracula)]([[https://github.com/shibu778/fe2o3-pva](https://github.com/Shibu778/COMSOL_thermoelectrics)](https://github.com/Shibu778/COMSOL_thermoelectrics))
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=quantum_coin_game\&show_owner=True\&theme=dracula)](https://github.com/Shibu778/quantum_coin_game)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=shibu778\&repo=four-probe-experiment\&show_owner=True\&theme=dracula)](https://github.com/Shibu778/four-probe-experiment)
 
